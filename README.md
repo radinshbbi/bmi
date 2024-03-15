@@ -10,7 +10,9 @@ Height = float(input("please enter your height?\n"))
 bmi = Weight / (Height**2)
 
 print("Calculate BMI for: ",age)
+
 print("Weight: ", Weight)
+
 print("Height: ", Height)
 
 if bmi <= 18.4 :
