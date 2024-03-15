@@ -1,7 +1,9 @@
 # bmi
 
 age = int(input("please enter your age?\n"))
+
 Weight = float(input("please enter your weight?\n"))
+
 Height = float(input("please enter your height?\n"))
 
 
